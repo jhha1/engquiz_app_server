@@ -1,0 +1,5 @@
+build/
+.classpath
+*.war
+*.lnk
+properties.xml 
